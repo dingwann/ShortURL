@@ -1,0 +1,3 @@
+spring:
+  profiles:
+    active: local  # 将application-sample.yml改为将application-local.yml或者此处的local改为sample
